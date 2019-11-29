@@ -18,6 +18,16 @@ h2 {
   margin-top: 25px;
 }
 
+.margin_top_80 {
+  margin-top: 80px;
+}
+
 .back_ground {
   background-color: #f9f9f9;
+}
+
+.back_image {
+    background-color: #428bca;
+    border-radius: 50%;
+    padding: 30px;
 }
