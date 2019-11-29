@@ -1,5 +1,9 @@
-.debug .container {
+/* .debug .container {
   background-color: red;
+} */
+
+[class*="col-"] {
+  border: 1px solid black;
 }
 
 * {
